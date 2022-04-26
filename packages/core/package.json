@@ -21,5 +21,6 @@
   },
   "dependencies": {
     "@myth-cli-dev/utils": "^1.0.2"
-  }
+  },
+  "gitHead": "92fc385732a61104b7b2d5d38e8f7a76a7e3065b"
 }
