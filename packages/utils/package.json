@@ -1,6 +1,6 @@
 {
   "name": "@myth-cli-dev/utils",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "myth-cli-dev utils",
   "author": "adcGG <979818137@qq.com>",
   "homepage": "",
@@ -22,5 +22,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "92fc385732a61104b7b2d5d38e8f7a76a7e3065b"
+  "gitHead": "8098b26ea9dbbe5398115cb3d04b1589eb0bc5fd"
 }
