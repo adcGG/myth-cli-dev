@@ -1,6 +1,6 @@
 {
   "name": "@myth-cli-dev/core",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "myth-cli-dev core",
   "author": "adcGG <979818137@qq.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@myth-cli-dev/utils": "^1.0.3"
+    "@myth-cli-dev/utils": "^1.0.4"
   },
   "gitHead": "2d15fe8f0bb633de9e4fc28847cd8d3b510d6efb"
 }

@@ -1,6 +1,6 @@
 {
   "name": "myth_cli_dev",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "myth-cli dev",
   "main": "index.js",
   "scripts": {
