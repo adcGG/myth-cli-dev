@@ -17,11 +17,10 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmmirror.com/",
     "access": "public"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "8098b26ea9dbbe5398115cb3d04b1589eb0bc5fd"
+  "gitHead": "2d15fe8f0bb633de9e4fc28847cd8d3b510d6efb"
 }
